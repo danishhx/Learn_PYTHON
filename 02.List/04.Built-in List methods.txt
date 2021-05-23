@@ -1,0 +1,15 @@
+len()	returns list length
+sort()	sorts the list
+min()	returns the minimum value from list
+max()	returns the maximum value from list
+list()	converts a sequential data type to list
+append()	adds an element at the end of the list
+clear()	removes all elements from the list
+copy()	returns the copied list
+reverse()	reverses the order of the elements of the list
+sum()	returns the sum of the elements of the list
+range()	returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number
+pop()	removes the element at the specified position
+remove()	removes the item with the specified value
+index()	returns the index of the first element with the specified value
+insert()	Adds an element at the specified position
