@@ -1,0 +1,5 @@
+f=open("C:\\Users\\HP\\Desktop\\content.txt","r")
+str1=f.readline()
+count=len(str1)
+print("no.of character of count",count)
+f.close()
